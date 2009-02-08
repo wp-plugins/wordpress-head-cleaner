@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WordPress Head Cleaner
-Plugin URI: http://kempwire.com/wordpress-head-claner-plugin
+Plugin URI: http://kempwire.com/wordpress-head-cleaner-plugin
 Description: Removes unwanted tags from your WordPress header.
 Version: 1.0
 Author: Jonathan Kemp
