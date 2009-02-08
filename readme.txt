@@ -11,7 +11,7 @@ Removes unwanted tags from your WordPress header.
 
 Removes unwanted tags from your WordPress header.
 
-The function wp_head; found in the header.php template file adds unnecessary tags to your WordPress template. They are the RSD, or Really Simple Discovery, link, the Windows Live Writer Link and the WordPress version number. This plugin will stop all 3 tags from being automatically added to your WordPress header.
+The function wp_head; found in the header.php template file adds unnecessary tags to your WordPress template. These tags are the RSD, or Really Simple Discovery, link, the Windows Live Writer Link and the WordPress version number. This plugin will stop all 3 tags from being automatically added to your WordPress header.
 
 == Installation ==
 
