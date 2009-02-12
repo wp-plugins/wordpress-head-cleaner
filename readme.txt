@@ -1,7 +1,7 @@
 === WordPress Head Cleaner ===
 Contributors: jonkemp
 Tags: head, header, headers
-Requires at least: 2.6
+Requires at least: 2.5.1
 Tested up to: 2.7
 Stable tag: trunk
 
